@@ -1,4 +1,4 @@
-# DataAnalisysChurnPrediction
+# Data Analisys: Churn Prediction
 Proyecto End-to-End de Análisis de Datos: 
 
 Predicción de Retención de Clientes 📊 
